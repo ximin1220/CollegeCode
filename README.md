@@ -1,4 +1,4 @@
-** This is HSI-MIN HSIAO's github. **  
+**This is HSI-MIN HSIAO's github.**  
 I store my coding exercises and projects here.
 
 > Some of my web projects:
